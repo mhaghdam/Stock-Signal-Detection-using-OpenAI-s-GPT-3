@@ -1,15 +1,7 @@
-# LLM
-# OpenAI Stock Signal Detection
+
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Stock Signal Detection using OpenAI's GPT-3</title>
-</head>
-<body>
 
 <h1>Stock Signal Detection using OpenAI's GPT-3</h1>
-
-<img src="https://cdn.openai.com/assets/logos/colored/openai-logo-brown.png" alt="OpenAI Logo">
 
 <p>This project aims to detect signals in messages related to the Iranian stock market using OpenAI's GPT-3 model. It provides a Python script that uses the OpenAI API to determine whether a given message implies a buying or selling signal in the Iranian stock market.</p>
 
